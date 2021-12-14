@@ -1,0 +1,3 @@
+In the first footnote the link https://news.ycombinator.com/item?id=8761539) , should be https://news.ycombinator.com/item?id=8761539
+
+Santiago Monserrat Campanello - FaMAF Universidad Nacional De Cordoba
